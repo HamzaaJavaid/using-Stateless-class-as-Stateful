@@ -1,16 +1,12 @@
-# stateless_as_stateful_widget
+# Stateless_as_stateful_widget
 
-A new Flutter project.
+A Flutter Project in which we use Stateless class as  a stateful class
+For this Project , only stateless class is used .
 
-## Getting Started
+Providers are used for DARK MODE , textFields value (onChange()).
 
-This project is a starting point for a Flutter application.
+## POSTER
 
-A few resources to get you started if this is your first Flutter project:
+Demo Featured App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![USE STATELESS CLASS](https://user-images.githubusercontent.com/115164085/218520396-8ac1521f-6584-4385-ae7b-9b21d6c2c9c5.png)
