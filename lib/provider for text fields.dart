@@ -6,8 +6,10 @@ class name with ChangeNotifier{
 
   String _name = "";
 
+  
   get get_name => _name;
 
+  
   set_name(value){
     _name=value;
     notifyListeners();
